@@ -3,7 +3,6 @@ I'm a **Linux System Administrator** with interest in:
 - Backend Development :v:
 - CTF (Newbie) :mega:
 - Hack The Box (beginner) :bulb:
-### Hi there 👋
 
 <!--
 **naiame-neltheri/naiame-neltheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
