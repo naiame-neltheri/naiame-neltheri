@@ -1,4 +1,8 @@
-### Welcome to my github profile :pray:
+### Welcome to my github profile :pray::pray::pray:
+I'm a **Linux System Administrator** with interest in:
+- Backend Development :v:
+- CTF (Newbie) :mega:
+- Hack The Box (beginner) :bulb:
 ### Hi there 👋
 
 <!--
