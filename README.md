@@ -12,10 +12,10 @@ Recently I've decided to join open source, trying to contribute to the world. I'
 ---
 ### Languages & Frameworks
 
-[<img align="left" alt="Terminal" width="26px" src="" />]
-[<img align="left" alt="Python" width="26px" src="/visual-studio-code.png" />]
-[<img align="left" alt="Php" width="26px" src="" />]
-[<img align="left" alt="React" width="26px" src="" />
+[<img align="left" alt="Terminal" width="26px" src="icons/terminal.jpeg" />]
+[<img align="left" alt="Python" width="26px" src="icons/python.jpeg" />]
+[<img align="left" alt="Php" width="26px" src="icons/php.png" />]
+[<img align="left" alt="React" width="26px" src="icons/react.png" />
 
 <!--
 **naiame-neltheri/naiame-neltheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
