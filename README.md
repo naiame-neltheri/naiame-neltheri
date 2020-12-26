@@ -1,5 +1,5 @@
 ### Hey there, welcome to my github profile :pray::pray::pray:
-Basically I work as a **Linux System Administrator** , hustle as a **Developer**. My interests are:
+I'm a **System Administrator** also **Developer**. My interests are:
 - Backend Development :v:
 - CTF (Newbie) :mega:
 - Hack The Box (beginner) :bulb:
