@@ -20,8 +20,10 @@ Recently I've decided to join open source, trying to contribute to the world. I'
 ---
 
 ### Languages & Frameworks
-
-<img align="left" alt="Terminal" width="25px" src="icons/terminal.jpeg" />
-<img align="left" alt="Python" width="25px" src="icons/python.jpeg" />
-<img align="left" alt="Php" width="25px" src="icons/php.png" />
-<img align="left" alt="React" width="25px" src="icons/react.png" />
+- Python
+- PHP
+- Shell Scripting
+- C
+- Flask, Django
+- Laravel
+- ReactJS
