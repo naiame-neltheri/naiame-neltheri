@@ -5,7 +5,7 @@ Basically I work as a **Linux System Administrator** , hustle as a **Developer**
 - Hack The Box (beginner) :bulb:
 ---
 <p>
-<img align='left' width="250" src="icons/hacktoberfest.png">
+<img align='left' width="200" src="icons/hacktoberfest.png">
 </p>
 
 
