@@ -1,9 +1,21 @@
-### Welcome to my github profile :pray::pray::pray:
-I'm a **Linux System Administrator** with interest in:
+### Hey there, welcome to my github profile :pray::pray::pray:
+Basically I work as a **Linux System Administrator** , hustle as a **Developer**. My interests are:
 - Backend Development :v:
 - CTF (Newbie) :mega:
 - Hack The Box (beginner) :bulb:
-- Arch Linux :boom:
+---
+<p>
+	<img align='left' width="250" src="">
+</p>
+### Path to open source
+Recently I've decided to join open source, trying to contribute to the world. I'm not a heavy maintainer or builder, but I try to be one
+---
+### Languages & Frameworks
+
+[<img align="left" alt="Terminal" width="26px" src="" />]
+[<img align="left" alt="Python" width="26px" src="/visual-studio-code.png" />]
+[<img align="left" alt="Php" width="26px" src="" />]
+[<img align="left" alt="React" width="26px" src="" />
 
 <!--
 **naiame-neltheri/naiame-neltheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
