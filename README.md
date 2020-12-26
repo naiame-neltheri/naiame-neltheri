@@ -5,7 +5,7 @@ Basically I work as a **Linux System Administrator** , hustle as a **Developer**
 - Hack The Box (beginner) :bulb:
 ---
 <p>
-	<img align='left' width="250" src="">
+	<img align='left' width="250" src="icons/hacktoberfest.png">
 </p>
 ### Path to open source
 Recently I've decided to join open source, trying to contribute to the world. I'm not a heavy maintainer or builder, but I try to be one
