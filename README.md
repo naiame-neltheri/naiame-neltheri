@@ -1,5 +1,6 @@
 ### Hey there, welcome to my github profile :pray::pray::pray:
-I'm a **System Administrator** also **Developer**. My interests are:
+I'm a:
+- **System Administrator** :v::v::v:
 - Backend Development :v:
 - CTF (Newbie) :mega:
 - Hack The Box (beginner) :bulb:
