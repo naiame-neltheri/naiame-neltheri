@@ -1,7 +1,7 @@
 ### Hey there, welcome to my github profile :pray::pray::pray:
 I'm a:
-- **System Administrator** :v::v::v:
-- Backend Development :v:
+- **DevOps engineer** :v::v::v:
+- Developer :v:
 - CTF (Newbie) :mega:
 - Hack The Box (beginner) :bulb:
 
